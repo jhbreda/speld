@@ -9,7 +9,7 @@
             "desktop":  "speld.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
     "framework" : "ubuntu-sdk-15.04.5"
 }

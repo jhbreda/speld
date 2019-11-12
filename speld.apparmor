@@ -4,7 +4,9 @@
     
     "policy_groups": [
         "networking",
-        "webview"
+        "webview",
+        "audio",
+        "video"
     ],
     
 
