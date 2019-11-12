@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=speld
+Exec=webapp-container --webappUrlPatterns=https?://speld.nl/* https://speld.nl
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

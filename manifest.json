@@ -1,0 +1,15 @@
+{
+    "name": "speld.nl",
+    "description": "Wrapper for speld.nl",
+    "architecture": "all",
+    "title": "speld",
+    "hooks": {
+        "speld": {
+            "apparmor": "speld.apparmor",
+            "desktop":  "speld.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
